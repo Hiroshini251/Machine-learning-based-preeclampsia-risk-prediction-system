@@ -9,19 +9,27 @@ Algorithms Used:
 	-Support Vector Machine(SVM)
 	-Random Forest Algorithm
 
+
 Data collection: 
 	Collecting data that is relevant to the problem at hand is the first step in creating a machine learning prediction model. The quality of the data collected is crucial as it directly affects the performance of the model.
+
 Data preprocessing: 
 	Once the data is collected, it needs to be preprocessed to remove any errors, inconsistencies, or missing values. Data preprocessing also includes scaling and normalizing the data to ensure that each feature has equal importance in the model.
+
 Feature selection: 
 	Feature selection involves identifying the most relevant features that have the most significant impact on the target variable. This step is crucial in avoiding overfitting and improving the model's performance.
+
 Model selection: 
 	Once the relevant features have been identified, the next step is to select a suitable machine learning algorithm that can learn from the data and make accurate predictions. The selection of the model depends on the nature of the problem and the available data.
+
 Model training: 
 	The selected machine learning algorithm is then trained on the preprocessed data set. During training, the model learns the relationships between the input features and the target variable.
+
 Model evaluation: 
 	Once the model is trained, it needs to be evaluated to assess its performance. This step involves using a separate validation data set to test the model's accuracy, precision, recall, and other performance metrics.
+
 Model tuning: 
 	Based on the evaluation results, the model can be fine-tuned by adjusting the algorithm's hyper parameters to improve its performance.
+
 Model deployment: 
 	Once the model has been trained, evaluated, and fine-tuned, it can be deployed to make predictions on new, unseen data. The deployment process can vary depending on the application, but it usually involves integrating the model into a larger system or creating an API to make predictions programmatically. Creating a machine learning prediction model involves collecting and preprocessing data, selecting relevant features, choosing a suitable algorithm, training and evaluating the model, fine-tuning it, and finally deploying it to make predictions.
